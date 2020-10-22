@@ -1,1 +1,2 @@
-# YFID
+# YFIG
+YFIG Contract Source Code
