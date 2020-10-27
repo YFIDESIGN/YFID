@@ -1,0 +1,28 @@
+{
+  "symbol": "YFID",
+  "address": "0x425D608b728C70427Fe11ee7072F41Ba4BF64FeC",
+  "overview":{
+        "en": "YFID is the abbreviation of YFIDesign. YFID's success is due to the core technology from YFI. The development core team comes from the United States, China, and South Korea. The YFI technology is independently forked and upgraded to a cluster interactive intelligent aggregator, which aggregates multiple platforms Agreement to realize the interaction of assets on different decentralized liquidity platforms.",
+        "zh": "YFID是YFIDesign的缩写，YFID的成功得力于来自YFI的核心技术，开发核心团队来自美国、中国、韩国，经YFI技术独立分叉并升级成集群交互式智能聚合器，平台聚合多种协议，以实现不同去中心化流动性平台资产的交互。"
+  },
+  "email": "middletonlucabhno@gmail.com",
+  "website": "https://yfi.design/",
+  "whitepaper": "https://docs.yearn.finance/",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2020-10-27",
+  "initial_price":{
+        "ETH":"0.0166666 ETH",
+        "USD":"6.5 USD",
+        "BTC":"0.00005 BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "https://twitter.com/DesignYfi",
+    "telegram": "",
+    "github": "https://github.com/YFIDESIGN",
+    "facebook": "",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
